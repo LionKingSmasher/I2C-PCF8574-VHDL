@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/work/modelsim/i2c
+Ei2c_8574
+Z0 w1650867125
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/work/modelsim/i2c_8574
+Z4 8D:/work/modelsim/i2c_8574/i2c_8574.vhd
+Z5 FD:/work/modelsim/i2c_8574/i2c_8574.vhd
+l0
+L4
+VTN>MoIVCciV752agCf:^A2
+!s100 e]aBSUOhS>8_=?m62?dJH2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1650867132
+!i10b 1
+Z8 !s108 1650867131.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/work/modelsim/i2c_8574/i2c_8574.vhd|
+Z10 !s107 D:/work/modelsim/i2c_8574/i2c_8574.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Adesign
+R1
+R2
+DEx4 work 8 i2c_8574 0 22 TN>MoIVCciV752agCf:^A2
+l12
+L10
+VdPTj1K:ACbPgl8:=:d[?_3
+!s100 8_e38W:TTozY_5R_YPdcd1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_i2c_8574
+Z13 w1650866954
+R1
+R2
+R3
+Z14 8D:/work/modelsim/i2c_8574/tb_i2c_8574.vhd
+Z15 FD:/work/modelsim/i2c_8574/tb_i2c_8574.vhd
+l0
+L4
+VWoz]7=?Lg8YkhbEl3HTTQ3
+!s100 PkO0m>_@Bc`F9DDXJUQ]T0
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1650867132.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/work/modelsim/i2c_8574/tb_i2c_8574.vhd|
+Z18 !s107 D:/work/modelsim/i2c_8574/tb_i2c_8574.vhd|
+!i113 1
+R11
+R12
+Adesign
+R1
+R2
+Z19 DEx4 work 11 tb_i2c_8574 0 22 Woz]7=?Lg8YkhbEl3HTTQ3
+l20
+L7
+Z20 VEEznnMK0fQ307^B:kYmML1
+Z21 !s100 JU]B>]1mN]_K0N0GXMOYi2
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
+R12
